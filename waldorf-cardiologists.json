@@ -1,0 +1,115 @@
+[
+    {
+        "name": "JASON R DUDAS",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": null,
+        "group": "EDWARD P. MIRANDA MD A MEDICAL CORPORATION",
+        "address": "77 VAN NESS AVE, SUITE 302, SAN FRANCISCO, CA 94102",
+        "phone_number": "(415) 379-9015"
+    },
+    {
+        "name": "EDWARD P MIRANDA",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "Hand surgery",
+        "group": "EDWARD P. MIRANDA MD A MEDICAL CORPORATION",
+        "address": "77 VAN NESS AVE, SUITE 302, SAN FRANCISCO, CA 94102",
+        "phone_number": "(415) 379-9015"
+    },
+    {
+        "name": "KYLE D BICKEL",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": null,
+        "group": "HAND CENTER OF SAN FRANCISCO",
+        "address": "601 VAN NESS AVE, SUITE 2018, SAN FRANCISCO, CA 94102",
+        "phone_number": "(415) 751-4263"
+    },
+    {
+        "name": "PATRICK O'CONNOR LANG",
+        "primary_specialty": "Hand surgery",
+        "additional_specialty": "Plastic and Reconstructive Surgery",
+        "group": "HAND CENTER OF SAN FRANCISCO",
+        "address": "601 VAN NESS AVE, SUITE 2018, SAN FRANCISCO, CA 94102",
+        "phone_number": "(415) 751-4263"
+    },
+    {
+        "name": "BRIAN M PARRETT",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "Hand surgery",
+        "group": "SUTTER BAY MEDICAL FOUNDATION",
+        "address": "1100 VAN NESS AVE SAN FRANCISCO, CA 94109",
+        "phone_number": "(650) 845-7649"
+    },
+    {
+        "name": "ALICE WOO",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "Hand surgery",
+        "group": "SUTTER BAY MEDICAL FOUNDATION",
+        "address": "1100 VAN NESS AVE SAN FRANCISCO, CA 94109",
+        "phone_number": "(650) 845-7649"
+    },
+    {
+        "name": "BRIAN M PARRETT",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "Hand surgery",
+        "group": "SUTTER BAY MEDICAL FOUNDATION",
+        "address": "2333 BUCHANAN ST SAN FRANCISCO, CA 94115",
+        "phone_number": "(415) 600-7180"
+    },
+    {
+        "name": "ROBERT HARVEY",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": null,
+        "address": "1199 BUSH ST, SUITE 690, SAN FRANCISCO, CA 94109",
+        "phone_number": "(415) 292-2940"
+    },
+    {
+        "name": "RICHARD FRANKLIN GROSSMAN",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": null,
+        "address": "1199 BUSH ST, SUITE 390, SAN FRANCISCO, CA 94109",
+        "phone_number": "(415) 800-8371"
+    },
+    {
+        "name": "MATS F HAGSTROM",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": null,
+        "address": "909 HYDE ST, SUITE 423, SAN FRANCISCO, CA 94109",
+        "phone_number": "(415) 885-4343"
+    },
+    {
+        "name": "CHANDRA VARNER ELLIS",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "Critical care (Intensivists)",
+        "address": "900 HYDE ST SAN FRANCISCO, CA 94109",
+        "phone_number": "(415) 353-6000"
+    },
+    {
+        "name": "DAVID YOUNG",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "General surgery",
+        "address": "900 HYDE ST SAN FRANCISCO, CA 94109",
+        "phone_number": "(415) 250-9251"
+    },
+    {
+        "name": "SAMUEL D KAO",
+        "primary_specialty": "Hand surgery",
+        "additional_specialty": "Plastic and Reconstructive Surgery",
+        "address": "450 SUTTER ST, SUITE 1533, SAN FRANCISCO, CA 94108",
+        "phone_number": "(415) 392-9291"
+    },
+    {
+        "name": "MICHAEL KULICK",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": "Hand surgery",
+        "address": "450 SUTTER ST, SUITE 2620, SAN FRANCISCO, CA 94108",
+        "phone_number": "(415) 956-2550"
+    },
+    {
+        "name": "ROGER P FRIEDENTHAL",
+        "primary_specialty": "Plastic and Reconstructive Surgery",
+        "additional_specialty": null,
+        "group": "HYPERBARIC CONSULTANTS MEDICAL GROUP INC",
+        "address": "2107 OFARRELL ST SAN FRANCISCO, CA 94115",
+        "phone_number": "(415) 345-1246"
+    }
+]
